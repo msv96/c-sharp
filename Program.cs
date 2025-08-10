@@ -8,6 +8,8 @@
       // BoolExpression.CoinFlip();
       // BoolExpression.PermissionLevel();
       // VariableScope.ScopeOfVariable();
+      // SwitchExpression.TestSwitch();
+      // SwitchExpression.ConvertToSwitch();
     }
   }
 }
