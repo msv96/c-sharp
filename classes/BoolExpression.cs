@@ -28,20 +28,14 @@ namespace CSharp
       if (permission.Contains("Admin"))
       {
         if (level > 55)
-        {
           access = "Welcome, Super Admin user.";
-        }
         else
-        {
           access = "Welcome, Admin user.";
-        }
       }
       else if (permission.Contains("Manager"))
       {
         if (level >= 20)
-        {
           access = "Contact an Admin for access.";
-        }
       }
 
       Console.WriteLine(access);
