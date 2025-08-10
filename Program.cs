@@ -10,6 +10,8 @@
       // VariableScope.ScopeOfVariable();
       // SwitchExpression.TestSwitch();
       // SwitchExpression.ConvertToSwitch();
+      // ForEachExpression.UnderstandingForEach();
+      // ForEachExpression.ForEachAssignment();
     }
   }
 }
