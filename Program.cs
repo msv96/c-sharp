@@ -7,6 +7,7 @@
       // Exam.CalCulateMarks();
       // BoolExpression.CoinFlip();
       // BoolExpression.PermissionLevel();
+      // VariableScope.ScopeOfVariable();
     }
   }
 }
