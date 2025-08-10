@@ -1,0 +1,10 @@
+﻿namespace CSharp
+{
+  public class LearningCSharp()
+  {
+    public static void Main()
+    {
+      // Exam.CalCulateMarks();
+    }
+  }
+}
