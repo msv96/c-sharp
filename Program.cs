@@ -5,6 +5,7 @@
     public static void Main()
     {
       // Exam.CalCulateMarks();
+      // BoolExpression.CoinFlip();
     }
   }
 }
