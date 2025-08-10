@@ -13,7 +13,9 @@
       // ForEachExpression.UnderstandingForEach();
       // ForEachExpression.ForEachAssignment();
       // WhileLoop.DoWhileExpression();
-      WhileLoop.WhileExpression();
+      // WhileLoop.WhileExpression();
+      // WhileLoop.DoWhileAssignment();
+      // WhileLoop.ValidateUserInput();
     }
   }
 }
